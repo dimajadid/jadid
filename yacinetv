@@ -140,7 +140,7 @@
           {
         "type": "webview",
         "image": "https://www.yacineapp.tv/",
-        "title": "Test webview 14",
+        "title": "Yacine TV Live Score",
         "description": "Test description webview 1",
         "url": "https://koralivenew.com/matchs",
         "locker": {
