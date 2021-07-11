@@ -12,11 +12,11 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "tapdaq",
-      "mode_ads_interstitial": "tapdaq",
-      "mode_ads_native": "tapdaq",
-      "mode_ads_mediumrect": "tapdaq",
-      "mode_ads_rewarded": "tapdaq",
+      "mode_ads_banner": "mopub",
+      "mode_ads_interstitial": "mopub",
+      "mode_ads_native": "mopub",
+      "mode_ads_mediumrect": "mopub",
+      "mode_ads_rewarded": "mopub",
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_id": [
@@ -55,10 +55,10 @@
         "huawei_rewarded_id": "testx9dtjwj8hp"
       },
       "mopub": {
-        "mopub_banner_id": "b195f8dd8ded45fe847ad89ed1d016da",
-        "mopub_interstitial_id": "24534e1901884e398f1253216226017e",
-        "mopub_native_id": "76a3fefaced247959582d2d2df6f4757",
-        "mopub_rewarded_id": "920b6145fb1546cf8b5cf2ac34638bb7"
+        "mopub_banner_id": "f79c18497bb94f238cbe1ce954720005",
+        "mopub_interstitial_id": "88c9c5d11723452490397817c68ccc73",
+        "mopub_native_id": "7955331e06684dda9330247b91aa8e4d",
+        "mopub_rewarded_id": "2788b289ae924439bd296cc3108511e3"
       },
       "tapdaq": {
         "tapdaq_app_id": "60ea0f4286c31c4e07c1076b",
