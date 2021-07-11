@@ -18,15 +18,15 @@
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-5708229768897789/4524042407",
+        "admob_banner_id": "ca-app-pub-7015234559652175/8295874253",
         "admob_interstitial_id": [
-          "ca-app-pub-5708229768897789/5645552387",
-          "ca-app-pub-5708229768897789/3288650657",
-          "ca-app-pub-5708229768897789/8349405645"
+          "ca-app-pub-7015234559652175/5669710913",
+          "ca-app-pub-7015234559652175/5177922171",
+          "ca-app-pub-7015234559652175/8104302560"
         ],
-        "admob_native_id": "ca-app-pub-5708229768897789/8080144036",
-        "admob_mediumrect_id": "ca-app-pub-5708229768897789/5023091079",
-        "admob_rewarded_id": "ca-app-pub-5708229768897789/8243795566",
+        "admob_native_id": "ca-app-pub-7015234559652175/6766050607",
+        "admob_mediumrect_id": "ca-app-pub-7015234559652175/5833362442",
+        "admob_rewarded_id": "ca-app-pub-7015234559652175/7721159187",
         "admob_unit_id": ""
       },
       "facebook": {
