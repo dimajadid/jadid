@@ -61,10 +61,10 @@
       "tapdaq": {
         "tapdaq_app_id": "60ea0f4286c31c4e07c1076b",
         "tapdaq_client_key": "8b44c86d-4840-4d1b-be92-5897aabccdbb",
-        "tapdaq_banner_id": "banner",
-        "tapdaq_interstitial_id": "banner",
-        "tapdaq_native_id": "banner",
-        "tapdaq_rewarded_id": "banner"
+        "tapdaq_banner_id": "default",
+        "tapdaq_interstitial_id": "default",
+        "tapdaq_native_id": "default",
+        "tapdaq_rewarded_id": "default"
       }
     },
     "update": {
