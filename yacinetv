@@ -12,11 +12,11 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "tapdaq",
-      "mode_ads_interstitial": "tapdaq",
-      "mode_ads_native": "tapdaq",
-      "mode_ads_mediumrect": "tapdaq",
-      "mode_ads_rewarded": "tapdaq",
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
+      "mode_ads_rewarded": "admob",
       "admob": {
         "admob_banner_id": "ca-app-pub-1458097177102187/7110499680",
         "admob_interstitial_id": [
