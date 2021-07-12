@@ -101,11 +101,11 @@
         "duration": 8000
       },
       "start": {
-        "enabled": false,
-        "count": 2,
+        "enabled": true,
+        "count": 1,
         "loader": {
-          "enabled": false,
-          "duration": 6000
+          "enabled": true,
+          "duration": 5000
         }
       },
       "main": {
