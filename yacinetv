@@ -11,7 +11,7 @@
       }
     },
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "mode_ads_banner": "tapdaq",
       "mode_ads_interstitial": "tapdaq",
       "mode_ads_native": "tapdaq",
