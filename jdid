@@ -1,0 +1,19 @@
+{
+"ADS":{
+
+"BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+"BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+"Native_Admob":"ca-app-pub-3940256099942544/2247696110",
+"Native_Facebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"InterstitialFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"mAppId":"60d90ed708fe6c2d735d673f",
+"mClientKey":"8b44c86d-4840-4d1b-be92-5897aabccdbb",
+"LinkCpa":"https://www.google.com",
+"ImageUrl":"https://image.freepik.com/free-vector/abstract-dotted-banner-background_1035-18160.jpg",
+"LinkCpa_inter":"https://www.kooora.com",
+"ImageUrl_inter":"https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+"NetworkAds":"facebook"
+
+  }
+}
