@@ -111,13 +111,13 @@
       "view_add": "file:///android_asset/cat.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
     },
-    {
+      {
       "id": 2,
-      "name_add": "Eevee Family Battle and Bank Pets",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Eevee B.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Eevee R.mcaddon",
-      "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
-      "des_add": "file:///android_asset/sample_addons.html"
+      "name_add": "Addon: Ruins",
+      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/FURNICRAFT B.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/FURNICRAFT R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg"
     },
     {
       "id": 3,
