@@ -106,8 +106,8 @@
     {
       "id": 1,
       "name_add": "Technical Vehicle",
-      "addB_url": "https://minecraftmodsdl.com/file/modernfurn B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/file/modernfurn R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon B.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon R.mcaddon",
       "view_add": "file:///android_asset/cat.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
     },
