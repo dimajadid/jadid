@@ -114,10 +114,10 @@
       {
       "id": 2,
       "name_add": "Addon Ruins",
-      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon.zip R.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon.zip B.mcaddon",
-      "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg",
-      "des_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg"
+      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon R.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/file/briz-concept-addon B.mcaddon",
+      "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
+      "des_add": "file:///android_asset/sample_addons.html"
     },
     {
       "id": 3,
