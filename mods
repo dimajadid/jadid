@@ -105,7 +105,7 @@
   "Addons": [
     {
       "id": 1,
-      "name_add": "Addon: More Simple Structures",
+      "name_add": "Addon More Simple Structures",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon1/0e7-jenny-addon-mcpe-1.19.mcaddon",
       "addR_url": "https://mcpeland.io/index.php?do=download&id=1832&lang=en",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png",
@@ -113,7 +113,7 @@
     },
     {
       "id": 2,
-      "name_add": "Addon: Ruins",
+      "name_add": "Addon Ruins",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon1/0e7-jenny-addon-mcpe-1.19.mcaddon",
       "addR_url": "https://mcpeland.io/index.php?do=download&id=1733&lang=en",
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg",
@@ -121,7 +121,7 @@
     },
     {
       "id": 3,
-      "name_add": "Addon: Nico's Cave Expansion",
+      "name_add": "Addon Nico's Cave Expansion",
       "addB_url": "https://mcpeland.io/index.php?do=download&id=2009",
       "addR_url": "https://mcpeland.io/index.php?do=download&id=2008&lang=en R.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png",
