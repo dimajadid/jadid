@@ -122,8 +122,8 @@
     {
       "id": 3,
       "name_add": "Addon: Nico's Cave Expansion",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=2009",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=2008",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=2009 bp.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=2008 rp.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png"
     }
