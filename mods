@@ -106,22 +106,22 @@
     {
       "id": 1,
       "name_add": "Technical Vehicle",
-      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
       "view_add": "file:///android_asset/cat.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
     },
-      {
+    {
       "id": 2,
-      "name_add": "Addon Ruins",
-      "addB_url": "https://minecraftmodsdl.com/file/briz-concept-addon.mcaddon R.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/file/briz-concept-addon B.mcaddon",
+      "name_add": "Eevee Family Battle and Bank Pets",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Eevee B.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Eevee R.mcaddon",
       "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
       "des_add": "file:///android_asset/sample_addons.html"
     },
     {
       "id": 3,
-      "name_add": "Flora Fishing",
+      "name_add": "Flora Fishing abc",
       "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
       "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
       "view_add": "file:///android_asset/fish.png",
