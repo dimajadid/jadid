@@ -114,15 +114,15 @@
     {
       "id": 2,
       "name_add": "Eevee Family Battle and Bank Pets",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=2002&lang=en B.mcaddon",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=2002&lang=en R.mcaddon",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=2002 B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=2002 R.mcaddon",
       "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
       "des_add": "file:///android_asset/sample_addons.html"
     },
     {
       "id": 3,
       "name_add": "Flora Fishing",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=2002 R.mcaddon",
       "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
       "view_add": "file:///android_asset/fish.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/fish.html"
