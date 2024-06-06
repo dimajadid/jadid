@@ -106,8 +106,8 @@
     {
       "id": 1,
       "name_add": "Addon: More Simple Structures",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/ActualGuns_3D_1.6.mcaddon B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/ActualGuns_3D_1.6.mcaddon R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/ActualGuns_3D_1.6.mcaddon bp.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/ActualGuns_3D_1.6.mcaddon rp.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png"
     },
@@ -122,8 +122,8 @@
     {
       "id": 3,
       "name_add": "Addon: Nico's Cave Expansion",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=2009 B.mcaddon",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=2008 R.mcaddon",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=2009",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=2008",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png"
     }
