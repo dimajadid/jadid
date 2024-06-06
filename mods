@@ -106,8 +106,8 @@
     {
       "id": 1,
       "name_add": "Technical Vehicle",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/file/modernfurn bp.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/file/modernfurn rp.mcaddon",
       "view_add": "file:///android_asset/cat.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
     },
