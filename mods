@@ -1,8 +1,8 @@
 {
    "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -105,27 +105,27 @@
   "Addons": [
     {
       "id": 1,
-      "name_add": "Addon: More Simple Structures",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/0e7-jenny-addon-mcpe-1.19.mcaddon bp.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/FURNICRAFT rp.mcaddon",
-      "view_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png",
-      "des_add": "https://mcpeland.io/uploads/posts/2024-02/mss-thumbnail-mcpedl_1-520x245.png"
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
     },
     {
       "id": 2,
-      "name_add": "Addon: Ruins",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/FURNICRAFT B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/FURNICRAFT rp.mcaddon",
-      "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg",
-      "des_add": "https://mcpeland.io/uploads/posts/2023-11/medium/-112-more-structures_2.jpg"
+      "name_add": "Eevee Family Battle and Bank Pets",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Eevee B.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Eevee R.mcaddon",
+      "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
+      "des_add": "file:///android_asset/sample_addons.html"
     },
     {
       "id": 3,
-      "name_add": "Addon: Nico's Cave Expansion",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=2009 bp.mcaddon",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=2008 rp.mcaddon",
-      "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png",
-      "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png"
+      "name_add": "Flora Fishing",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
+      "view_add": "file:///android_asset/fish.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/fish.html"
     }
   ],
   "Maps": [
